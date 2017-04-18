@@ -1,0 +1,177 @@
+V "GNAT Lib v4.4"
+P SS ZX
+R nnnvnnnvnnnnnnnnnnnnnnvvnnnnvnnnnvnnnnnnnvnnnnnnnnnnvnnvnnnnnnnnnnnnnnnnnnv1+nn
+
+U neighbors%b		neighbors.adb		53316bc7 NE OO PK
+W ada%s			ada.ads			ada.ali
+W ada.strings%s		a-string.ads		a-string.ali
+W ada.strings.unbounded%s  a-strunb.adb		a-strunb.ali
+W ada.tags%s		a-tags.adb		a-tags.ali
+W ada.text_io%s		a-textio.adb		a-textio.ali
+W ada.unchecked_deallocation%s
+W chat_messages%s	chat_messages.adb	chat_messages.ali
+W lower_layer_udp%s	lower_layer_udp.adb	lower_layer_udp.ali
+W system.soft_links%s	s-soflin.adb		s-soflin.ali
+
+U neighbors%s		neighbors.ads		3ce2abd7 EE NE OO PK
+W ada%s			ada.ads			ada.ali
+W ada.strings%s		a-string.ads		a-string.ali
+W ada.strings.unbounded%s  a-strunb.adb		a-strunb.ali
+W ada.unchecked_deallocation%s
+W chat_messages%s	chat_messages.adb	chat_messages.ali
+W lower_layer_udp%s	lower_layer_udp.adb	lower_layer_udp.ali
+W system.tasking%s	s-taskin.adb		s-taskin.ali
+W system.tasking.protected_objects%s  s-taprob.adb  s-taprob.ali
+
+D ada.ads		20070406091342 9c7dd3ea
+D a-charac.ads		20070912115821 506ce725
+D a-chlat1.ads		20070912115821 e9ee6d0a
+D a-except.ads		20090409232307 b54b55de
+D a-finali.ads		20090409232307 9eaacebd
+D a-filico.ads		20090409232307 9299732a
+D a-ioexce.ads		20070406091342 be0900a0
+D a-reatim.ads		20090409232307 7c462ab4
+D a-stream.ads		20090409232307 34aca5be
+D a-string.ads		20070406091342 87b4230b
+D a-strmap.ads		20090409232307 5253a637
+D a-strunb.ads		20090409232307 f0549c04
+D a-tags.ads		20090409232307 bfa07446
+D a-taside.ads		20090409232307 ed6367a8
+D a-textio.ads		20090409232307 fe8af46e
+D a-unccon.ads		20070406091342 51e09df2
+D a-uncdea.ads		20070406091342 dc667e6d
+D ada_sockets.ads	20080723100827 bead7ec5
+D c_sockets.ads		20080723100827 ae62ecd4
+D c_sockets_arch.ads	20080723100827 ae39cd95
+D chat_messages.ads	20120105213154 aacf17ea
+D concurrency.ads	20081111152635 234e1895
+D interfac.ads		20090409232307 a69cad5c
+D i-c.ads		20070406091342 bc3ef662
+D i-cstrin.ads		20090409232307 841d8a31
+D i-cstrea.ads		20090409232307 e1e064a9
+D keyed_lists_generic.ads  20080723100827 649cc8d8
+D lists_generic.ads	20080723100827 9d1f6824
+D lower_layer.ads	20080723100827 73b92197
+D lower_layer-inet.ads	20080723100827 12a1a879
+D lower_layer-inet-udp.ads  20080723100827 8f5fdc7b
+D lower_layer-inet-udp-uni.ads  20080723100827 5ee7f99b
+D lower_layer_udp.ads	20080723100827 a3c54ba3
+D neighbors.ads		20120105191800 19da15f7
+D neighbors.adb		20120110232152 9159347e
+D system.ads		20100127085936 15e10948
+D s-atacco.ads		20090409232307 60789a20
+D s-crtl.ads		20090409232307 997234a1
+D s-exctab.ads		20090409232307 5c1c61ae
+D s-ficobl.ads		20090409232307 8bb681e5
+D s-finimp.ads		20090409232307 9449f4cb
+D s-finroo.ads		20090409232307 1408f9d1
+D s-linux.ads		20090409232307 ad070dbe
+D s-osinte.ads		20080408064315 b04c0edf
+D s-parame.ads		20090409232307 f32e56e9
+D s-secsta.ads		20090409232307 7bae3621
+D s-soflin.ads		20090409232307 0c6fd39d
+D s-stache.ads		20090409232307 257b3be8
+D s-stausa.ads		20090409232307 6ab7dd35
+D s-stalib.ads		20090409232307 52b793d5
+D s-stoele.ads		20090409232307 ed966df3
+D s-stoele.adb		20090409232307 e9998c78
+D s-stratt.ads		20090409232307 fef7c1da
+D s-tasinf.ads		20090409232307 268f0cd4
+D s-taspri.ads		20080408071349 5459bcd0
+D s-taprop.ads		20090409232307 25a7965c
+D s-taskin.ads		20090409232307 376ff2dd
+D s-taprob.ads		20090409232307 5e00115c
+D s-tpoben.ads		20090409232307 37be425d
+D s-tassta.ads		20090409232307 71d2b71d
+D s-traent.ads		20090409232307 bd5f2753
+D s-unstyp.ads		20090409232307 c0f9fae5
+D s-wchcon.ads		20090409232307 ab028799
+D types.ads		20111128233544 5f826011
+D unchdeal.ads		20070406091342 66b7fd29
+X 1 ada.ads
+16K9*Ada 19e8 34|4r6 6r6 11r29 35r31 35|4r6 6r6 7r6
+X 10 a-string.ads
+16K13*Strings 35e16 34|4r10 11r33 35|4r10
+X 12 a-strunb.ads
+39K21*Unbounded 428e26 34|4w18 11r41 35|4w18
+X 15 a-textio.ads
+48K13*Text_IO 506e16 35|7w10
+X 17 a-uncdea.ads
+20u15*Unchecked_Deallocation 34|6w10 35r35 35|6w10
+X 21 chat_messages.ads
+8K9*Chat_Messages 25e18 34|7w6 13r28 35|8w6
+13E14*Message_Type 13e74 34|20r130 42r96 35|14r21 73r96 133r130
+13n31*Init{13E14} 35|86r46
+13n62*Logout{13E14} 35|88r49
+X 29 lower_layer.ads
+112P9*Address_CA(110R9)
+184V13*"="{boolean} 35|43r52 55r70 80r52
+X 33 lower_layer_udp.ads
+4K9*Lower_Layer_UDP 150e20 34|5w6 12r29 35|5w6
+8R12*Buffer_Type{29|58R9} 34|18r94 40r60 35|38r60 121r95
+23P12*End_Point_Type{29|112P9} 34|17r103 18r125 19r97 20r101 22r111 31r33
+. 39r68 40r91 41r63 42r67 43r77 35|13r22 18r68 38r91 50r63 73r67 94r77 115r103
+. 121r126 127r97 133r101 139r111
+110U14*Send 35|44r45
+X 34 neighbors.ads
+9K9*Neighbors 50l5 50e14 35|11b14 146l5 146t14
+11K17*ASU=11:41
+12K17*LLU=12:29 17r98 18r90 18r121 19r93 20r97 22r107 31r29 39r64 40r56 40r87
+. 41r59 42r63 43r73 35|13r18 18r63 38r56 38r87 44r41 50r59 73r63 94r73 115r98
+. 121r91 121r122 127r93 133r97 139r107
+13K17*CM=13:28 20r127 42r93 35|14r18 73r93 86r43 88r46 133r127
+15W14*List_Protected_Neighbors 17r56 18r51 19r52 20r56 22r55 48l13 48e37
+. 35|16b24 113l13 113t37 115r56 121r52 127r52 133r56 139r55
+17U19*Almacenar_Neighbor 17=39 17>82 35|115b19 119l13 119t31
+17w39 Vecinos{15W14} 35|115b39 118r17
+17p82 EP_Handler{33|23P12} 35|115b82 118r44
+18U19*Enviar_Message 18=35 18=77 18>107 35|121b19 125l13 125t27
+18w35 Vecinos{15W14} 35|121b35 124r17
+18r77 Buf{33|8R12} 35|121b78 124m40
+18p107 EP_H_Rsnd{33|23P12} 35|121b108 124r45
+19U19*Delete_Neighbor 19=36 19>78 35|127b19 131l13 131t28
+19w36 Vecinos{15W14} 35|127b36 130r17
+19p78 EP_H_Creat{33|23P12} 35|127b78 130r41
+20U19*Comprobar_EP_Vecino 20=40 20>82 20>117 35|133b19 137l13 137t32
+20w40 Vecinos{15W14} 35|133b40 136r17
+20p82 EP_H_Creat{33|23P12} 35|133b82 136r45
+20e117 Mess{21|13E14} 35|133b117 136r57
+22U19*Crear_Destinations 22=39 22>81 22<99 35|139b19 143l13 143t31
+22w39 Vecinos{15W14} 35|139b39 142r17
+22i81 Cont{integer} 35|139b81 142r44
+22p99 EP{33|23P12} 35|139b99 142m50
+26R14 Datos_Neighbor 28r40 30c14 33e19 35r59 35|31r46
+28P14 Acceso_Neighbor(26R14) 32r23 35r75 47r29 35|19r33 20r34 39r33 51r33
+. 52r36 74r33 96r32
+31p17*EP_H_Nodo{33|23P12} 35|32m39 43r42 44r56 55r60 80r42 102r61
+32p17*Next{28P14} 35|26r50 33m39 46r48 56r48 62r59 64r65 65r64 67m47 67r64
+. 83r48 108r56
+35U19 Free[17|20] 35|69r33
+39U27 Almacenar_Neighbor 39>47 35|18b27 36l21 36t39 87r41 118r25
+39p47 EP_Handler{33|23P12} 35|18b47 32r53
+40U27 Enviar_Message 40=43 40>73 35|38b27 48l21 48t35 124r25
+40r43 Buf{33|8R12} 35|38b43 44m67
+40p73 EP_H_Rsnd{33|23P12} 35|38b73 43r55
+41U27 Delete_Neighbor 41>44 35|50b27 71l21 71t36 89r41 130r25
+41p44 EP_H_Creat{33|23P12} 35|50b44 55r73
+42U27 Comprobar_EP_Vecino 42>48 42>83 35|73b27 92l21 92t40 136r25
+42p48 EP_H_Creat{33|23P12} 35|73b48 80r54 87r60 89r57
+42e83 Mess{21|13E14} 35|73b83 86r36 88r39
+43U27 Crear_Destinations 43>47 43<65 35|94b27 111l21 111t39 142r25
+43i47 Cont{integer} 35|94b47 99r37 100r40
+43p65 EP{33|23P12} 35|94b65 102r49 104r49
+47p17 The_List{28P14} 35|23r35 33r47 34r33 41r34 54r34 60r42 62r41 77r34
+. 98r34
+X 35 neighbors.adb
+19p25 P_Aux{34|28P14} 31m33 32r33 33r33 34r45
+20p25 P_Aux2{34|28P14} 23m25 25r31 26m33 26r43
+21i25 Cont{integer} 24m25 25r55 27m33 27r41 29r28
+39p25 P_Aux{34|28P14} 41m25 42r31 43r36 44r50 46m33 46r42
+51p25 P_Aux{34|28P14} 54m25 55r31 55r54 56m33 56r42 58r28 59r45 60m33 61r36
+. 62r53 64r59 65m49 65r58 67r41
+52p25 P_Delete{34|28P14} 59m33 61r44 64r47 67r55 69m38
+74p25 P_Aux{34|28P14} 77m25 79r31 80r36 83m33 83r42
+75b25 Encontrado{boolean} 78m25 79r53 81m41 85r32
+96p25 P_Aux{34|28P14} 98m25 101r44 102r55 107r36 108m41 108r50
+99i29 k{integer} 100r36
+

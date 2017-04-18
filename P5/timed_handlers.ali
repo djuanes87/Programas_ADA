@@ -1,0 +1,133 @@
+V "GNAT Lib v4.4"
+P SS ZX
+R nnvnnvvnnnnnnnnvnnvnvnvvnvnnvnnnnvnnnnnvnvnnnnnnvnnnnnnvnnnnvnnnv2nnnnnv1nv1+nv1+nn
+
+U timed_handlers%b	timed_handlers.adb	3125481c OO PK
+W ada%s			ada.ads			ada.ali
+W ada.exceptions%s	a-except.adb		a-except.ali
+W ada.real_time%s	a-reatim.adb		a-reatim.ali
+W ada.tags%s		a-tags.adb		a-tags.ali
+W ada.text_io%s		a-textio.adb		a-textio.ali
+W system%s		system.ads		system.ali
+W system.finalization_implementation%s  s-finimp.adb  s-finimp.ali
+W system.finalization_root%s  s-finroo.adb	s-finroo.ali
+W system.parameters%s	s-parame.adb		s-parame.ali
+W system.soft_links%s	s-soflin.adb		s-soflin.ali
+W system.task_info%s	s-tasinf.adb		s-tasinf.ali
+W system.tasking%s	s-taskin.adb		s-taskin.ali
+W system.tasking.protected_objects%s  s-taprob.adb  s-taprob.ali
+W system.tasking.protected_objects.entries%s  s-tpoben.adb  s-tpoben.ali
+W system.tasking.protected_objects.operations%s  s-tpobop.adb  s-tpobop.ali
+W system.tasking.stages%s  s-tassta.adb		s-tassta.ali
+W timer_tree%s		timer_tree.adb		timer_tree.ali
+
+U timed_handlers%s	timed_handlers.ads	73916e1e EE NE OO PK
+W ada%s			ada.ads			ada.ali
+W ada.calendar%s	a-calend.adb		a-calend.ali
+
+D ada.ads		20070406091342 9c7dd3ea
+D a-calend.ads		20090409232307 19486c30
+D a-charac.ads		20070912115821 506ce725
+D a-chlat1.ads		20070912115821 e9ee6d0a
+D a-except.ads		20090409232307 b54b55de
+D a-finali.ads		20090409232307 9eaacebd
+D a-filico.ads		20090409232307 9299732a
+D a-ioexce.ads		20070406091342 be0900a0
+D a-reatim.ads		20090409232307 7c462ab4
+D a-stream.ads		20090409232307 34aca5be
+D a-string.ads		20070406091342 87b4230b
+D a-strmap.ads		20090409232307 5253a637
+D a-strunb.ads		20090409232307 f0549c04
+D a-tags.ads		20090409232307 bfa07446
+D a-textio.ads		20090409232307 fe8af46e
+D a-unccon.ads		20070406091342 51e09df2
+D interfac.ads		20090409232307 a69cad5c
+D i-c.ads		20070406091342 bc3ef662
+D i-cstrea.ads		20090409232307 e1e064a9
+D system.ads		20100127085936 15e10948
+D s-atacco.ads		20090409232307 60789a20
+D s-crtl.ads		20090409232307 997234a1
+D s-exctab.ads		20090409232307 5c1c61ae
+D s-ficobl.ads		20090409232307 8bb681e5
+D s-finimp.ads		20090409232307 9449f4cb
+D s-finroo.ads		20090409232307 1408f9d1
+D s-linux.ads		20090409232307 ad070dbe
+D s-osinte.ads		20080408064315 b04c0edf
+D s-parame.ads		20090409232307 f32e56e9
+D s-secsta.ads		20090409232307 7bae3621
+D s-soflin.ads		20090409232307 0c6fd39d
+D s-stache.ads		20090409232307 257b3be8
+D s-stausa.ads		20090409232307 6ab7dd35
+D s-stalib.ads		20090409232307 52b793d5
+D s-stoele.ads		20090409232307 ed966df3
+D s-stoele.adb		20090409232307 e9998c78
+D s-stratt.ads		20090409232307 fef7c1da
+D s-tasinf.ads		20090409232307 268f0cd4
+D s-taspri.ads		20080408071349 5459bcd0
+D s-taprop.ads		20090409232307 25a7965c
+D s-taskin.ads		20090409232307 376ff2dd
+D s-taprob.ads		20090409232307 5e00115c
+D s-tpoben.ads		20090409232307 37be425d
+D s-tpobop.ads		20090409232307 ccd38b83
+D s-tassta.ads		20090409232307 71d2b71d
+D s-traent.ads		20090409232307 bd5f2753
+D s-unstyp.ads		20090409232307 c0f9fae5
+D s-wchcon.ads		20090409232307 ab028799
+D timed_handlers.ads	20111128233544 6ad9022e
+D timed_handlers.adb	20111128233544 7df18132
+D timer_tree.ads	20111128233544 d8873f6e
+X 1 ada.ads
+16K9*Ada 19e8 49|1r6 15r55 21r37 50|1r6 9r25 10r24 11r27 20r25 29r27 37r24
+. 59r18 64r16 67r11 95r33 126r37
+X 2 a-calend.ads
+36K13*Calendar 358e17 49|1w10 15r59 21r41 50|9r29 10r28 11r31 20r29 29r31
+. 37r28 59r22 64r20 67r15 95r37 126r41
+38I9*Time 49|15r68 21r50 50|9r38 10r37 11r40 20r38 29r40 37r37 59r31 64r29
+. 67r24 126r50
+52V13*Clock{38I9} 50|95r46
+97V13*"-"{duration} 50|95r31
+103V13*"<"{boolean} 50|89r21
+X 15 a-textio.ads
+48K13*Text_IO 506e16 50|1w10
+X 49 timed_handlers.ads
+13K9*Timed_Handlers 30l5 30e19 50|4b14 136l5 136t19
+15P9*Timed_Handler_A 21r60 50|9r52 10r47 21r26 37r47 60r21 68r11 126r60
+15i46 Time{2|38I9}
+21U14*Set_Timed_Handler 21>33 21>56 50|126b14 129l8 129t25
+21i33 T{2|38I9} 50|126b33 128r14
+21p56 H{15P9} 50|126b56 128r17
+28U14*Finalize 50|131b14 133l8 133t16
+X 50 timed_handlers.adb
+8w14 P 19b19 53l8 53t9 76r10 79r10 85r16 97r16 104r13 112r13 115r13 128r7
+. 132r7
+9Y13 Get 9<18 9<44 20b13 27l11 27t14 76r12 85r18 112r15
+9i18 T{2|38I9} 24r10 25r26
+9p44 H{49|15P9} 25m29
+10U17 Put 10>22 10>43 37b17 41l11 41t14 128r9
+10i22 T{2|38I9} 37b22 39r26
+10p43 H{49|15P9} 37b43 39r28
+11U17 Delete 11>25 29b17 35l11 35t17 97r18
+11i25 T{2|38I9} 29b25 31r29
+12Y13 Finalize 43b13 46l11 46t19 79r12 104r15 115r15
+13U17 Do_Finalize 48b17 51l11 51t22 132r9
+15b7 New_Timer{boolean} 21r49 26r10 33r13 40r10
+16b7 Must_finalize{boolean} 43r27 50r10
+20i18 T{2|38I9}
+21p18 H{49|15P9}
+22b10 Success{boolean} 25m32
+56T14 Timed_Handlers_Task_T 58b14 120l8 120t29 123r25
+59i7 The_Time{2|38I9} 76m17 89r23 91m19 95r22 96r33 97r26 112m20
+60p7 The_Handler{49|15P9} 76m27 92m19 96r16 112m30
+61b7 Programmed{boolean} 73m7 77m10 83r16 90m19 98m16 113m13
+62b7 Finalize{boolean} 72m7 82r17 105m13 116m13
+67i7 T{2|38I9} 85m23 89r19 91r31
+68p7 H{49|15P9} 85m26 92r34
+123t4 Timed_Handler_Task{56T14}
+X 51 timer_tree.ads
+9K9*Timer_Tree 50|2w6 24r15 25r10 31r10 32r17 39r10 51|33e15
+13U14*Get 50|25r21
+18U14*Put 50|39r21
+21U14*Delete 50|31r21
+24V13*Min{2|38I9} 50|24r26
+26V13*Is_Empty{boolean} 50|32r28
+
